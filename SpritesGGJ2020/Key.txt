@@ -1,0 +1,5 @@
+White = Wall
+Grey = Ground
+Red = Hazard
+Orange = Enemy
+Yellow = Reward (though rewards should spawn naturally as well)
