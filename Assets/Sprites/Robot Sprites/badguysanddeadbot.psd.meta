@@ -1,0 +1,292 @@
+fileFormatVersion: 2
+guid: 1bccb88a38ae6a14d868967cb1f6018f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3631651800259284894
+    second: badguysanddeadbot_0
+  - first:
+      213: -2905748548222131559
+    second: badguysanddeadbot_1
+  - first:
+      213: 7191049221654613377
+    second: badguysanddeadbot_2
+  - first:
+      213: -9100576300767638789
+    second: badguysanddeadbot_3
+  - first:
+      213: -5514984505117612352
+    second: badguysanddeadbot_4
+  - first:
+      213: 168975375806860831
+    second: badguysanddeadbot_5
+  - first:
+      213: 8606390623672364023
+    second: badguysanddeadbot_6
+  - first:
+      213: 6644278509246489468
+    second: badguysanddeadbot_0
+  - first:
+      213: 1588672418074574821
+    second: badguysanddeadbot_1
+  - first:
+      213: 3764587965318882443
+    second: badguysanddeadbot_2
+  - first:
+      213: 3322007573526950486
+    second: badguysanddeadbot_3
+  - first:
+      213: -7969062055852002256
+    second: badguysanddeadbot_4
+  - first:
+      213: 3003491207678051070
+    second: badguysanddeadbot_5
+  - first:
+      213: 6742025927314137950
+    second: badguysanddeadbot_6
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 10000
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: badguysanddeadbot_0
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 2171
+        width: 1700
+        height: 681
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9fcc5e2218366230800000000000000
+      internalID: 3631651800259284894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: badguysanddeadbot_1
+      rect:
+        serializedVersion: 2
+        x: 5716
+        y: 2246
+        width: 498
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 992ec983715bca7d0800000000000000
+      internalID: -2905748548222131559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: badguysanddeadbot_2
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 1245
+        width: 717
+        height: 701
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18d8213da2dbbc360800000000000000
+      internalID: 7191049221654613377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: badguysanddeadbot_3
+      rect:
+        serializedVersion: 2
+        x: 1794
+        y: 1167
+        width: 718
+        height: 779
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfa0865421244b180800000000000000
+      internalID: -9100576300767638789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: badguysanddeadbot_4
+      rect:
+        serializedVersion: 2
+        x: 3061
+        y: 1167
+        width: 717
+        height: 779
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c66eaeefc6d673b0800000000000000
+      internalID: -5514984505117612352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: badguysanddeadbot_5
+      rect:
+        serializedVersion: 2
+        x: 4328
+        y: 1168
+        width: 717
+        height: 778
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1e81c28532585200800000000000000
+      internalID: 168975375806860831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: badguysanddeadbot_6
+      rect:
+        serializedVersion: 2
+        x: 5638
+        y: 1245
+        width: 718
+        height: 701
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fb6e327caa007770800000000000000
+      internalID: 8606390623672364023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

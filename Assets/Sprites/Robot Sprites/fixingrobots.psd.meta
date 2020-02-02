@@ -1,0 +1,1231 @@
+fileFormatVersion: 2
+guid: 37758e11d7523b84a8088f10745beb7d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1969859129682754813
+    second: fixingrobots_0
+  - first:
+      213: -3609364392493053769
+    second: fixingrobots_1
+  - first:
+      213: 4020187618697336554
+    second: fixingrobots_2
+  - first:
+      213: 1639897705602483004
+    second: fixingrobots_3
+  - first:
+      213: -4143417825000713296
+    second: fixingrobots_4
+  - first:
+      213: -7017662558973583889
+    second: fixingrobots_5
+  - first:
+      213: -8441847896496461412
+    second: fixingrobots_6
+  - first:
+      213: -6187976631114751816
+    second: fixingrobots_7
+  - first:
+      213: 1680076564209068416
+    second: fixingrobots_8
+  - first:
+      213: 7801106406369708468
+    second: fixingrobots_9
+  - first:
+      213: 455674021172858882
+    second: fixingrobots_10
+  - first:
+      213: -6016254336696166047
+    second: fixingrobots_11
+  - first:
+      213: -4402861493536045323
+    second: fixingrobots_12
+  - first:
+      213: -3869142239889117631
+    second: fixingrobots_13
+  - first:
+      213: -4617289189443709507
+    second: fixingrobots_14
+  - first:
+      213: 1458395878645918456
+    second: fixingrobots_15
+  - first:
+      213: -437171569311298312
+    second: fixingrobots_16
+  - first:
+      213: 9043764797920683279
+    second: fixingrobots_17
+  - first:
+      213: -9168352555474165614
+    second: fixingrobots_18
+  - first:
+      213: 746463077244214738
+    second: fixingrobots_19
+  - first:
+      213: -6535682453600317912
+    second: fixingrobots_20
+  - first:
+      213: -7150100447742376291
+    second: fixingrobots_21
+  - first:
+      213: 3031672601973143646
+    second: fixingrobots_22
+  - first:
+      213: -2773440141483519346
+    second: fixingrobots_23
+  - first:
+      213: -4879197220724244108
+    second: fixingrobots_24
+  - first:
+      213: 6974244618966842958
+    second: fixingrobots_25
+  - first:
+      213: -1269213833338388747
+    second: fixingrobots_26
+  - first:
+      213: -5971810095502062244
+    second: fixingrobots_27
+  - first:
+      213: -3575534278824872624
+    second: fixingrobots_28
+  - first:
+      213: 293275946525762184
+    second: fixingrobots_29
+  - first:
+      213: -2384802253648892301
+    second: fixingrobots_30
+  - first:
+      213: -4945938478638638766
+    second: fixingrobots_31
+  - first:
+      213: -5091266027491715308
+    second: fixingrobots_32
+  - first:
+      213: 5406626890694938910
+    second: fixingrobots_33
+  - first:
+      213: 3165257437724994636
+    second: fixingrobots_34
+  - first:
+      213: 497314822426601589
+    second: fixingrobots_35
+  - first:
+      213: -8706467520819827318
+    second: fixingrobots_36
+  - first:
+      213: -4492322911130478237
+    second: fixingrobots_37
+  - first:
+      213: -7258480281990559306
+    second: fixingrobots_38
+  - first:
+      213: -9120050675461033877
+    second: fixingrobots_39
+  - first:
+      213: 6923994674207978717
+    second: fixingrobots_40
+  - first:
+      213: 7407252604076069151
+    second: fixingrobots_41
+  - first:
+      213: -4918259251973446915
+    second: fixingrobots_42
+  - first:
+      213: 4836017310082179172
+    second: fixingrobots_43
+  - first:
+      213: 602598202684811635
+    second: fixingrobots_44
+  - first:
+      213: -3245736802848182463
+    second: fixingrobots_45
+  - first:
+      213: 8379899686735688410
+    second: fixingrobots_46
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 10000
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fixingrobots_0
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 2360
+        width: 482
+        height: 677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30303bdee87a9a4e0800000000000000
+      internalID: -1969859129682754813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixingrobots_1
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 2360
+        width: 445
+        height: 677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b802805536f8edc0800000000000000
+      internalID: -3609364392493053769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixingrobots_2
+      rect:
+        serializedVersion: 2
+        x: 1925
+        y: 2296
+        width: 479
+        height: 677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae6d0eed6539ac730800000000000000
+      internalID: 4020187618697336554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixingrobots_3
+      rect:
+        serializedVersion: 2
+        x: 2694
+        y: 2276
+        width: 454
+        height: 677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c330a62564612c610800000000000000
+      internalID: 1639897705602483004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixingrobots_4
+      rect:
+        serializedVersion: 2
+        x: 3994
+        y: 2296
+        width: 468
+        height: 677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b39fc0e07f9f76c0800000000000000
+      internalID: -4143417825000713296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixingrobots_5
+      rect:
+        serializedVersion: 2
+        x: 4739
+        y: 2276
+        width: 444
+        height: 677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fed12d275114c9e90800000000000000
+      internalID: -7017662558973583889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixingrobots_6
+      rect:
+        serializedVersion: 2
+        x: 5679
+        y: 2246
+        width: 485
+        height: 677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c992371a01888da80800000000000000
+      internalID: -8441847896496461412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixingrobots_7
+      rect:
+        serializedVersion: 2
+        x: 6379
+        y: 2246
+        width: 452
+        height: 677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b0acff0a04ef1aa0800000000000000
+      internalID: -6187976631114751816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixingrobots_8
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1656
+        width: 452
+        height: 677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 089e325dbb4d05710800000000000000
+      internalID: 1680076564209068416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixingrobots_9
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 1656
+        width: 471
+        height: 677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b9c0bec1f8134c60800000000000000
+      internalID: 7801106406369708468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixingrobots_10
+      rect:
+        serializedVersion: 2
+        x: 1882
+        y: 1592
+        width: 458
+        height: 677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 200d165ab11e25600800000000000000
+      internalID: 455674021172858882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixingrobots_11
+      rect:
+        serializedVersion: 2
+        x: 2633
+        y: 1572
+        width: 488
+        height: 677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16952d66e88f18ca0800000000000000
+      internalID: -6016254336696166047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixingrobots_12
+      rect:
+        serializedVersion: 2
+        x: 3674
+        y: 2229
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f6c98a8cc4e5e2c0800000000000000
+      internalID: -4402861493536045323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixingrobots_13
+      rect:
+        serializedVersion: 2
+        x: 3940
+        y: 1592
+        width: 458
+        height: 677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14e23f5e1ab0e4ac0800000000000000
+      internalID: -3869142239889117631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixingrobots_14
+      rect:
+        serializedVersion: 2
+        x: 4675
+        y: 1572
+        width: 485
+        height: 677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db5d4f512f71cefb0800000000000000
+      internalID: -4617289189443709507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixingrobots_15
+      rect:
+        serializedVersion: 2
+        x: 5497
+        y: 2232
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fa659023534d3410800000000000000
+      internalID: 1458395878645918456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixingrobots_16
+      rect:
+        serializedVersion: 2
+        x: 6096
+        y: 2232
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fccc4126cadee9f0800000000000000
+      internalID: -437171569311298312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixingrobots_17
+      rect:
+        serializedVersion: 2
+        x: 1525
+        y: 1848
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f05ae34fa28e18d70800000000000000
+      internalID: 9043764797920683279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixingrobots_18
+      rect:
+        serializedVersion: 2
+        x: 3581
+        y: 1846
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 290ea634de773c080800000000000000
+      internalID: -9168352555474165614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixingrobots_19
+      rect:
+        serializedVersion: 2
+        x: 5655
+        y: 1541
+        width: 448
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dd161db638fb5a00800000000000000
+      internalID: 746463077244214738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixingrobots_20
+      rect:
+        serializedVersion: 2
+        x: 6316
+        y: 1541
+        width: 468
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82e466c9f679c45a0800000000000000
+      internalID: -6535682453600317912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixingrobots_21
+      rect:
+        serializedVersion: 2
+        x: 5285
+        y: 1797
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9644ff868db5cc90800000000000000
+      internalID: -7150100447742376291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixingrobots_22
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 925
+        width: 505
+        height: 701
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e58b4e34b2aa21a20800000000000000
+      internalID: 3031672601973143646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixingrobots_23
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 921
+        width: 505
+        height: 705
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e82d019b2e2c289d0800000000000000
+      internalID: -2773440141483519346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixingrobots_24
+      rect:
+        serializedVersion: 2
+        x: 1525
+        y: 1140
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47188a59afb994cb0800000000000000
+      internalID: -4879197220724244108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixingrobots_25
+      rect:
+        serializedVersion: 2
+        x: 1882
+        y: 861
+        width: 512
+        height: 701
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4eb232a78e79c060800000000000000
+      internalID: 6974244618966842958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixingrobots_26
+      rect:
+        serializedVersion: 2
+        x: 2633
+        y: 841
+        width: 488
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fe7adf3eb8d26ee0800000000000000
+      internalID: -1269213833338388747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixingrobots_27
+      rect:
+        serializedVersion: 2
+        x: 3582
+        y: 1140
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5d028fab5edf1da0800000000000000
+      internalID: -5971810095502062244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixingrobots_28
+      rect:
+        serializedVersion: 2
+        x: 3940
+        y: 861
+        width: 512
+        height: 701
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05539647486216ec0800000000000000
+      internalID: -3575534278824872624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixingrobots_29
+      rect:
+        serializedVersion: 2
+        x: 4675
+        y: 841
+        width: 485
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 882a5d56bece11400800000000000000
+      internalID: 293275946525762184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixingrobots_30
+      rect:
+        serializedVersion: 2
+        x: 5662
+        y: 810
+        width: 492
+        height: 701
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37ee4bb4cfa77eed0800000000000000
+      internalID: -2384802253648892301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixingrobots_31
+      rect:
+        serializedVersion: 2
+        x: 6316
+        y: 810
+        width: 488
+        height: 701
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 259decb882f7c5bb0800000000000000
+      internalID: -4945938478638638766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixingrobots_32
+      rect:
+        serializedVersion: 2
+        x: 5288
+        y: 1087
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 417975ec5803859b0800000000000000
+      internalID: -5091266027491715308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixingrobots_33
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 190
+        width: 434
+        height: 704
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1152f4f282380b40800000000000000
+      internalID: 5406626890694938910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixingrobots_34
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 190
+        width: 434
+        height: 701
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4ce24e8ed04deb20800000000000000
+      internalID: 3165257437724994636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixingrobots_35
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 467
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57826443231d6e600800000000000000
+      internalID: 497314822426601589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixingrobots_36
+      rect:
+        serializedVersion: 2
+        x: 1956
+        y: 126
+        width: 438
+        height: 704
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8dee0d2be96c2780800000000000000
+      internalID: -8706467520819827318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixingrobots_37
+      rect:
+        serializedVersion: 2
+        x: 2633
+        y: 106
+        width: 435
+        height: 704
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36918b91d1018a1c0800000000000000
+      internalID: -4492322911130478237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixingrobots_38
+      rect:
+        serializedVersion: 2
+        x: 4014
+        y: 126
+        width: 438
+        height: 704
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b986cef3a2b44b90800000000000000
+      internalID: -7258480281990559306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixingrobots_39
+      rect:
+        serializedVersion: 2
+        x: 4675
+        y: 106
+        width: 438
+        height: 704
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6075931b321f6180800000000000000
+      internalID: -9120050675461033877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixingrobots_40
+      rect:
+        serializedVersion: 2
+        x: 5719
+        y: 76
+        width: 435
+        height: 701
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd4fcd6a878f61060800000000000000
+      internalID: 6923994674207978717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixingrobots_41
+      rect:
+        serializedVersion: 2
+        x: 6316
+        y: 76
+        width: 437
+        height: 701
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f119a838ff8dbc660800000000000000
+      internalID: 7407252604076069151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixingrobots_42
+      rect:
+        serializedVersion: 2
+        x: 1525
+        y: 406
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df228d4b445debbb0800000000000000
+      internalID: -4918259251973446915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixingrobots_43
+      rect:
+        serializedVersion: 2
+        x: 3418
+        y: 406
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 460a6170f1cfc1340800000000000000
+      internalID: 4836017310082179172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixingrobots_44
+      rect:
+        serializedVersion: 2
+        x: 3582
+        y: 406
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37921556fdbdc5800800000000000000
+      internalID: 602598202684811635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixingrobots_45
+      rect:
+        serializedVersion: 2
+        x: 5477
+        y: 406
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14f62df0393d4f2d0800000000000000
+      internalID: -3245736802848182463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixingrobots_46
+      rect:
+        serializedVersion: 2
+        x: 5288
+        y: 355
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad2b941dd526b4470800000000000000
+      internalID: 8379899686735688410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
